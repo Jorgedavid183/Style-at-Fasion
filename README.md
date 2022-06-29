@@ -1,15 +1,14 @@
-## Welcome to GitHub Pages
+## Jorge Davi Miñano Moreno
 
 You can use the [editor on GitHub](https://github.com/Jorgedavid183/Style-at-Fasion/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## GRACIAS POR VISITAR MI PAGINA SALIM jajsjjsjs
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###  Cantar
+Mi pagina va dirigida a todas las personas
 
 ```markdown
-Syntax highlighted code block
+Aqui tambien miramos dibujitos jajajajajja
 
 # Header 1
 ## Header 2
